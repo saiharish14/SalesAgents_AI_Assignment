@@ -1,0 +1,53 @@
+user: Hello? 
+agent: Hello, this is {{agent_name}} calling from {{company_name}}.
+user: (unintelligible audio)
+user: (unintelligible audio)
+agent: Am I speaking with {{customer_name}}?
+agent: Hello, are you 
+agent: speaking?
+user: (unintelligible audio)
+agent: I’m sorry, I couldn’t hear you clearly. Am 
+user: Hello? Hello? Hello? 
+agent: Hello, this is {{agent_name}} from {{company_name}}. Am I speaking with {{customer_name}}?
+user: Yes. Yes. We are speaking with the customer. 
+agent: Thanks.
+user: Harish. I'm Sai Harish. 
+agent: You may be eligible for a special Loan Against Property offer of up to ₹75 lakh, subject to eligibility checks. May I ask a few quick questions?
+user: Yes. Of course. 
+agent: Is 
+user: Emails. 
+agent: I think I missed that. Is the property residential, commercial, industrial, or agricultural?
+user: Sorry? 
+user: The contents and what you asked. 
+agent: I’m checking the property type for the Loan Against Property offer: is it residential, commercial, industrial, or agricultural?
+user: Actually, I'm an engineering student. 
+agent: Thanks for sharing. Is the property you’d use as security residential, commercial, industrial, or agricultural?
+user: Yeah. It's commercial. 
+agent: Is the commercial property solely owned or jointly owned?
+user: It's jointly worn. 
+agent: Is the property jointly owned?
+user: Yes. Yes. 
+user: It's jointly won. 
+agent: Are the original property documents available?
+user: SR course available. 
+agent: I couldn’t catch that clearly. Are the original property documents available?
+user: Yes. 
+user: Original documents are available. 
+agent: How much loan amount are you looking for?
+user: Nearly, I'm looking for seventy five lakhs. 
+agent: Are you salaried or self-employed, and does your income come into a bank account or in cash?
+user: My salary is coming via bank or one. I can't get it. Cash or something like that. 
+agent: Does your salary get credited to your bank account, or do you receive 
+user: No. No. My 
+agent: it in cash?
+user: salary, paid from my bank account. 
+agent: Just to confirm, do you receive your salary in your bank account?
+user: Just a minute. I'll proceed, and I'm tell you again. Yes. My salary credited to my bank. 
+agent: What’s the estimated current market value of the commercial property?
+user: Mainly it's seventy five to one crore. 
+agent: What repayment tenure are you looking for, between 3 and 15 years?
+user: Between three and between years. I'm looking for like fifteen to twenty lines. 
+agent: The offer supports a tenure of 3 to 15 years. Would you like to proceed with 15 years?
+user: Yeah. Of course. 
+user: Based on that situation. 
+agent: You’re preliminarily eligible based on the details shared: commercial joint-owned property, original documents available, ₹75 lakh requested, salaried income credited to bank, estimated property value of ₹75 lakh to ₹1 crore, and a 15-year tenure. A senior loan expert will call you to discuss next steps and exact applicable details.
